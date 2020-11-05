@@ -13,7 +13,7 @@ int main(void)
     cin>>num;
 
     
-    for(int i=1;i<=num;i++)
+    for(int i=num;i>=1;i--)
     {
        cout<<i<<'\n'; 
     }
